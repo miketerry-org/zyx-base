@@ -1,0 +1,10 @@
+.ds_store
+.env
+.git
+.gitignore
+.npmignore
+docs/
+node_modules/
+package-lock.json
+test/
+Todo.md

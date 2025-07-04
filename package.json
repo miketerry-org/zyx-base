@@ -1,0 +1,31 @@
+{
+  "name": "zyx-base",
+  "version": "0.20.0",
+  "description": "BaseServer application",
+  "main": "index.js",
+  "scripts": {
+    "dev": "NODE_ENV=dev nodemon index.js --watch .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "compress": "^0.99.0",
+    "compression": "^1.8.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "express-fileupload": "^1.5.1",
+    "express-rate-limit": "^7.5.0",
+    "express-session": "^1.18.1",
+    "handlebars": "^4.7.8",
+    "helmet": "^8.1.0",
+    "hpp": "^0.2.3",
+    "morgan": "^1.10.0",
+    "zyx-env": "^0.20.0",
+    "zyx-schema": "^0.20.2",
+    "zyx-system": "^0.20.0"
+  },
+  "keywords": [],
+  "author": "Mike Terry",
+  "license": "MIT",
+  "packageManager": "pnpm@10.11.0"
+}
