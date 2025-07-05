@@ -1,6 +1,6 @@
 {
   "name": "zyx-base",
-  "version": "0.20.4",
+  "version": "0.20.5",
   "description": "BaseServer application",
   "main": "index.js",
   "scripts": {
