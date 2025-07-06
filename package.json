@@ -1,6 +1,6 @@
 {
   "name": "zyx-base",
-  "version": "0.20.6",
+  "version": "0.20.8",
   "description": "BaseServer application",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
     "helmet": "^8.1.0",
     "hpp": "^0.2.3",
     "morgan": "^1.10.0",
-    "zyx-env": "^0.21.3",
+    "zyx-env": "^0.21.4",
     "zyx-schema": "^0.20.5",
     "zyx-system": "^0.20.3"
   },
