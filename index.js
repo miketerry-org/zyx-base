@@ -8,7 +8,6 @@ const BaseEmailer = require("./lib/baseEmailer");
 const BaseModel = require("./lib/baseModel");
 const BaseRouter = require("./lib/baseRouter");
 const BaseServer = require("./lib/baseServer");
-const EmailMessage = require("./lib/emailMessage");
 const loadServerConfig = require("./lib/loadServerConfig");
 const loadTenantConfigs = require("./lib/loadTenantConfigs");
 
