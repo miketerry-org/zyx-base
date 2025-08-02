@@ -17,7 +17,6 @@ module.exports = {
   BaseModel,
   BaseRouter,
   BaseServer,
-  EmailMessage,
   loadServerConfig,
   loadTenantConfigs,
 };
