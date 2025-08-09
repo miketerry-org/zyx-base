@@ -19,10 +19,7 @@
     "handlebars": "^4.7.8",
     "helmet": "^8.1.0",
     "hpp": "^0.2.3",
-    "morgan": "^1.10.0",
-    "zyx-env": "^0.21.4",
-    "zyx-schema": "^0.20.5",
-    "zyx-system": "^0.20.3"
+    "morgan": "^1.10.0"
   },
   "keywords": [],
   "author": "Mike Terry",
